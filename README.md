@@ -1,2 +1,6 @@
 # delta-demo
-This is a git and github class
+This is a Demo for git and github class.
+# teacher
+Dr Arif khan
+# student
+Alpesh Singh
